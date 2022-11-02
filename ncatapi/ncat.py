@@ -1,5 +1,5 @@
 import requests
-from src.Exceptions import CannotConnectToNCATException, RequiredParameterMissingException, NCATTimeoutException
+from Exceptions import CannotConnectToNCATException, RequiredParameterMissingException, NCATTimeoutException
 
 
 class NCAT:

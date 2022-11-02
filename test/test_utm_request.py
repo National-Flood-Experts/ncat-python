@@ -1,6 +1,6 @@
 import unittest
-from src.ncatapi import NCAT
-from src.Exceptions import RequiredParameterMissingException
+from ncatapi import NCAT
+from Exceptions import RequiredParameterMissingException
 
 
 class UtmRequestTests(unittest.TestCase):

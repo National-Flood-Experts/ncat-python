@@ -1,6 +1,6 @@
 import unittest
-from src.Exceptions import RequiredParameterMissingException
-from src.ncatapi import NCAT
+from Exceptions import RequiredParameterMissingException
+from ncatapi import NCAT
 
 
 class LLHTests(unittest.TestCase):

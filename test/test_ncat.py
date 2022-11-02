@@ -1,5 +1,5 @@
 import unittest
-from src.ncatapi import NCAT
+from ncatapi import NCAT
 
 
 class NCATTests(unittest.TestCase):
